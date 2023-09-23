@@ -1,4 +1,5 @@
 import JobCategory from "../category/JobCategory";
+import FeaturedJobs from "../featuredJobs/FeaturedJobs";
 import Hero from "../hero/Hero";
 
 
@@ -6,7 +7,8 @@ const Home = () => {
       return (
             <div>
                <Hero></Hero>  
-               <JobCategory></JobCategory> 
+               <JobCategory></JobCategory>
+               <FeaturedJobs></FeaturedJobs> 
             </div>
       );
 };

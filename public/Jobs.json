@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "logo_img": "/src/assets/logo/google.png.png",
-    "title": "Software Engineer",
+    "logo_img": "/src/assets/logo/google.png",
+    "position": "Software Engineer",
     "company_name": "Google LLC",
-    "remote": true,
-    "fulltime": true,
+    "job_title": "Onsite",
+    "working_time": "Full Time",
     "location": "San Francisco, CA",
     "salary": "$100,000 - $120,000 per year",
     "more_details": "Join our dynamic team of software engineers to work on cutting-edge projects in the heart of Silicon Valley."
@@ -13,10 +13,10 @@
   {
     "id": 2,
     "logo_img": "/src/assets/logo/netflix.png",
-    "title": "Data Analyst",
+    "position": "Data Analyst",
     "company_name": "Netflix",
-    "remote": false,
-    "fulltime": true,
+    "job_title": "Remote",
+    "working_time": "Full Time",
     "location": "New York, NY",
     "salary": "$80,000 - $90,000 per year",
     "more_details": "Analyze and interpret data to help our clients make informed decisions. Enjoy a collaborative work environment."
@@ -24,10 +24,10 @@
   {
     "id": 3,
     "logo_img": "/src/assets/logo/tesla.png",
-    "title": "Marketing Manager",
+    "position": "Marketing Manager",
     "company_name": "Tesla",
-    "remote": false,
-    "fulltime": true,
+    "job_title": "Onsite",
+    "working_time": "Full Time",
     "location": "Los Angeles, CA",
     "salary": "$90,000 - $110,000 per year",
     "more_details": "Lead our marketing efforts and develop innovative campaigns to promote our products and services."
@@ -35,10 +35,10 @@
   {
     "id": 4,
     "logo_img": "/src/assets/logo/google.png",
-    "title": "Graphic Designer",
+    "position": "Graphic Designer",
     "company_name": "Google LLC",
-    "remote": true,
-    "fulltime": true,
+    "job_title": "Onsite",
+    "working_time": "Full Time",
     "location": "Chicago, IL",
     "salary": "$70,000 - $80,000 per year",
     "more_details": "Create visually stunning designs and collaborate with clients to bring their ideas to life."
@@ -46,10 +46,10 @@
   {
     "id": 5,
     "logo_img": "/src/assets/logo/netflix.png",
-    "title": "HR Specialist",
+    "position": "HR Specialist",
     "company_name": "Netflix",
-    "remote": false,
-    "fulltime": true,
+    "job_title": "Remote",
+    "working_time": "Full Time",
     "location": "Houston, TX",
     "salary": "$65,000 - $75,000 per year",
     "more_details": "Support our HR department in various functions, including recruitment and employee relations."
@@ -57,10 +57,10 @@
   {
     "id": 6,
     "logo_img": "/src/assets/logo/tesla.png",
-    "title": "Financial Analyst",
+    "position": "Financial Analyst",
     "company_name": "Tesla",
-    "remote": true,
-    "fulltime": true,
+    "job_title": "Remote",
+    "working_time": "Full Time",
     "location": "Boston, MA",
     "salary": "$85,000 - $100,000 per year",
     "more_details": "Analyze financial data, prepare reports, and provide valuable insights to drive financial decision-making."
