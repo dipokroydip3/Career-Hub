@@ -2,7 +2,7 @@
 
 const Hero = () => {
       return (
-            <div className="bg-gray-200">
+            <div className="bg-gray-100">
                   <div className="flex items-center w-10/12 m-auto pt-10 ">
                         <div>
                               <h1 className="text-4xl font-semibold">One Step Closer To Your <br /> <span className="text-blue-400">Dream Job</span></h1>

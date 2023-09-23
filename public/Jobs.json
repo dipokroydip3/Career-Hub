@@ -1,0 +1,69 @@
+[
+      {
+        "id": 1,
+        "logo_img": "company1_logo.png",
+        "title": "Software Engineer",
+        "company_name": "Tech Innovators Inc.",
+        "remote": true,
+        "fulltime": true,
+        "location": "San Francisco, CA",
+        "salary": "$100,000 - $120,000 per year",
+        "more_details": "Join our dynamic team of software engineers to work on cutting-edge projects in the heart of Silicon Valley."
+      },
+      {
+        "id": 2,
+        "logo_img": "company2_logo.png",
+        "title": "Data Analyst",
+        "company_name": "Data Insights Co.",
+        "remote": false,
+        "fulltime": true,
+        "location": "New York, NY",
+        "salary": "$80,000 - $90,000 per year",
+        "more_details": "Analyze and interpret data to help our clients make informed decisions. Enjoy a collaborative work environment."
+      },
+      {
+        "id": 3,
+        "logo_img": "company3_logo.png",
+        "title": "Marketing Manager",
+        "company_name": "Digital Marketers LLC",
+        "remote": false,
+        "fulltime": true,
+        "location": "Los Angeles, CA",
+        "salary": "$90,000 - $110,000 per year",
+        "more_details": "Lead our marketing efforts and develop innovative campaigns to promote our products and services."
+      },
+      {
+        "id": 4,
+        "logo_img": "company4_logo.png",
+        "title": "Graphic Designer",
+        "company_name": "Creative Solutions Agency",
+        "remote": true,
+        "fulltime": true,
+        "location": "Chicago, IL",
+        "salary": "$70,000 - $80,000 per year",
+        "more_details": "Create visually stunning designs and collaborate with clients to bring their ideas to life."
+      },
+      {
+        "id": 5,
+        "logo_img": "company5_logo.png",
+        "title": "HR Specialist",
+        "company_name": "Human Resources Inc.",
+        "remote": false,
+        "fulltime": true,
+        "location": "Houston, TX",
+        "salary": "$65,000 - $75,000 per year",
+        "more_details": "Support our HR department in various functions, including recruitment and employee relations."
+      },
+      {
+        "id": 6,
+        "logo_img": "company6_logo.png",
+        "title": "Financial Analyst",
+        "company_name": "Financial Wizards Ltd.",
+        "remote": true,
+        "fulltime": true,
+        "location": "Boston, MA",
+        "salary": "$85,000 - $100,000 per year",
+        "more_details": "Analyze financial data, prepare reports, and provide valuable insights to drive financial decision-making."
+      }
+    ]
+    
