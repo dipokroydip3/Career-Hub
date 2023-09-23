@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 
 const Job = ({job}) => {
@@ -14,14 +15,18 @@ const Job = ({job}) => {
                               <h1 className="border px-3 py-1 rounded">{job_title}</h1>
                               <h2 className="border px-3 py-1 rounded">{working_time}</h2>
                         </div>
-                        <div className="flex">
+                        <div className="flex gap-8">
                               <h3>{location}</h3>
                               <h2>{salary}</h2>
                         </div>
+                        <Link to={"/details"}>
                         <button className="bg-blue-400 mt-5 text-white px-2 py-1 rounded block m-auto">View Details</button>
+                        </Link>
                   </div>
             </div>
       );
 };
+
+
 
 export default Job;
